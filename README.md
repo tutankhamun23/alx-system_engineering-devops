@@ -1,1 +1,1 @@
-Shell input/ouput
+shell, init files, variables and expansions
